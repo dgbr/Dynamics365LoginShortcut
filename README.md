@@ -25,7 +25,8 @@ Right click on the 'ShortcutScript.ps1' script and click 'Create Shortcut'.
 Drag and drop new shortcut file to somewhere easy to access e.g. Desktop screen.
 
 ## Step 6
-Double click on shortcut and the script should run, opening a Chrome window.
+Double click on shortcut and the script should run and prompt you for your username and password.
+These credentials will be encrypted and stored so you only need to enter them once.
 
 ## Note
 This currently only works on Chrome.
